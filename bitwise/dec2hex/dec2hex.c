@@ -14,7 +14,7 @@ Complexidade:
 Dificuldade:
     medio
 */
-
+ 
 #include <stdlib.h>
 
 const char* HEXA = "0123456789ABCDEF";
